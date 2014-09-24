@@ -1,0 +1,15 @@
+{
+  "name": "input-ripple",
+  "version": "0.6.0",
+  "authors": [
+    "Matt Styles <matt@veryfizzyjelly.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
